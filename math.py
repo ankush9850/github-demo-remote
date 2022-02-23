@@ -11,7 +11,7 @@ def subtract(x,y):
 # Multiply more Implementation 
 # Multiply Implementation 
 def multiply(x,y):
-    return x*y              # on Bug456 branch
+    pass             # from local repo
 
 # Divide more Implementation 
 # Divide Implementation 
